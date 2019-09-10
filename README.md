@@ -4,7 +4,7 @@
 except that instead of digging blocks, you need to shoot bomb.
 
 
-![Screenshot](https://i.ibb.co/1rgkG33/Project-2.gif)
+![Screenshot](https://i.ibb.co/VTyrW2K/ezgif-3-f86466e76bd1.gif)
 
 Easy setup: 
 1. Change node that will be crashed (line 121, "default:wood")
